@@ -1,4 +1,5 @@
 # Zee5
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fcbc4bb229fc4c4bab285e23552cbe61)](https://app.codacy.com/manual/dedshit/Zee5?utm_source=github.com&utm_medium=referral&utm_content=dedshit/Zee5&utm_campaign=Badge_Grade_Dashboard)
 [![CodeFactor](https://www.codefactor.io/repository/github/dedshit/zee5/badge)](https://www.codefactor.io/repository/github/dedshit/zee5)
 # simple poc to get anything from *ZEE5* without premium subscription
 
